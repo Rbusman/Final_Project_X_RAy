@@ -40,21 +40,21 @@ False positives not only disrupt the flow of passengers but also pose significan
 *Figure 2: Continuously innovating, the TSA envisions a future where security screening seamlessly integrates advanced technologies like 3-D imaging and X-Ray diffraction to bolster threat detection capabilities.*
 
 ### The Invisible Made Visible:  How X-Rays Work
-X-rays, like visible light are energy or electromagnetic radiation.  However, unlike traditional visible-spectrum imagery, X-rays can pass through objects.  Therefore, images created from X-rays offer transparent views of solid objects and can reveal hidden things.
+X-rays, like visible light are energetic and is a form of electromagnetic radiation.  However, unlike traditional visible-spectrum imagery, X-rays can pass through objects.  Therefore, images created from X-rays offer transparent views of solid objects and can reveal hidden things.
 
 <p align="center">
   <img src="Images/EMSpectrum.png" alt="EMSpectrum">
 </p>
 *Figure 3:  While invisible to the naked eye, X-rays are still part of the electromagnetic spectrum, offering unique insights into the hidden worlds inside and around us.*
 
-Key to X-ray imaging is attenuation—the measure of energy absorption and deflection as X-rays traverse materials. Defined by the linear attenuation coefficient (μ), attenuation varies with material density, with denser substances like metals exhibiting higher absorption levels. Consequently, metallic objects cast darker shadows on X-ray image negative, akin to the silhouettes in a shadow puppet show.
+Key to X-ray imaging is attenuation—the measure of energy absorption and deflection as X-rays traverse materials. Defined by the linear attenuation coefficient (μ), attenuation varies with material density, with denser substances like metals exhibiting higher absorption levels. Consequently, metallic objects cast darker shadows on X-ray image negatives, akin to the silhouettes in a shadow puppet show.
 
 <p align="center">
   <img src="Images/Attenuation.png" alt="Attentuation">
 </p>
-*Figure 4: Through attenuation, X-ray images reveal the concealed, with dangerous metallic objects emerging as distinct shadows against the backdrop. (Image adapted from Hassan et al., 2020)*
+*Figure 4: Through attenuation, X-ray images reveal the concealed, with dangerous metallic objects emerging as distinct shadows against a backdrop. (Image adapted from Hassan et al., 2020)*
 
-X-ray baggage screening both single-shot and continuous exposure techniques. The latter, prevalent in cabin baggage screening, offers seamless scanning as items glide along conveyor belts, ensuring swift and thorough examination.
+X-ray baggage screening is done both with single-shot and continuous exposure techniques. The latter, prevalent in cabin baggage screening, offers seamless scanning as items glide along conveyor belts ensuring swift and thorough examination.
 
 ###  A Typical Screening Flow in US Airports
 
@@ -68,7 +68,7 @@ X-ray baggage screening both single-shot and continuous exposure techniques. The
 ----
 Our thriving skies project charts a course toward enhanced screening procedures, with a keen focus on baggage inspection enhanced with automated object detection algorithms, powered by cutting-edge convolutional neural networks.  
 
-At the project's culmination, a dynamic web interface will emerge, empowering security personnel with real-time assessments of X-ray images, expediting threat identification, and ensuring the skies remain safe for all travelers.
+At the project's culmination, a dynamic interface will emerge, empowering security personnel with real-time assessments of X-ray images, expediting threat identification, and ensuring the skies remain safe for all travelers.
 
 * **Goal 1:  Improve Accuracy**
 
